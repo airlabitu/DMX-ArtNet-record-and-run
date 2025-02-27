@@ -19,3 +19,6 @@ Open MadMapper, and navigate to the DMX settings under preferences (MadMapper->P
 - Select ethernet IP "127.0.0.1" as the "Interface" 
 - Then use the (+) button to manually add each universe you will be sending data to. Each time edit the IP to "127.0.0.1" and the universe number to match your setup. 1-4 in my case.
 See the image below for final setup for our application.
+
+![DMX preferences](https://github.com/airlabitu/DMX-ArtNet-record-and-run/blob/main/settings/DMX%20preferences.png)
+
