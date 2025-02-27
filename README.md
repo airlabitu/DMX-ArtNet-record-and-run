@@ -10,7 +10,7 @@ This repository consists of two Processing sketch folders. "record_artnet_dmx" a
 To record a DMX sequence via MadMapper using ArtNet you first need to setup MadMapper and the Processing software "record_artnet_dmx". Then you can just record the sequence you wish. 
 
 Hint:<br>
-A god way to setup madmapper to give a good playback result is to use the DMX record function in MadMapper. Amongst other features you can use this to record a sequence, edit the start and end position of the playback, and fade to/from black when starting/ending the sequence.
+A god way to setup madmapper to give a good playback result is to use the DMX record function in MadMapper. Amongst other features you can use this to record a sequence, edit the start and end position of the playback, and fade to/from black when starting/ending the sequence. We will not here go into details with how to use this feature, but just record directly from the regular animation output.
 
 ### Setting up MadMapper
 Open MadMapper, and navigate to the DMX settings under preferences (MadMapper->Preferences->DMX). 
