@@ -22,3 +22,6 @@ See the image below for final setup for our application.
 
 ![DMX preferences](https://github.com/airlabitu/DMX-ArtNet-record-and-run/blob/main/settings/DMX%20preferences.png)
 
+![Fixture setup](https://github.com/airlabitu/DMX-ArtNet-record-and-run/blob/main/settings/MadMapper%20-%20DMX%20fixture%20setup.png)
+
+
